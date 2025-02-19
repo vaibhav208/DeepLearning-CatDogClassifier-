@@ -22,7 +22,12 @@ The model consists of the following layers:
 2. **Max Pooling Layer (`MaxPool2D`)** – Reduces dimensions while preserving key information  
 3. **Flatten Layer (`Flatten`)** – Converts feature maps into a 1D vector  
 4. **Fully Connected Layers (`Dense`)** – Processes features and classifies images  
-5. **Output Layer (`Dense`)** – Uses **Sigmoid Activation** for binary classification (Cat/Dog)  
+5. **Output Layer (`Dense`)** – Uses **Sigmoid Activation** for binary classification (Cat/Dog)
+
+## Dataset & Directory Setting
+- You can dwonload the dataset from browser.
+- then create two directories one for cats and one for dogs.
+- then put these directories in one directory named as "train".
 
 ## 🛠️ Installation & Setup  
 
