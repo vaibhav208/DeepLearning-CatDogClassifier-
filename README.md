@@ -33,7 +33,7 @@ The model consists of the following layers:
 
 1️⃣ **Clone this repository:**  
 ```bash
-git clone https://github.com/your-username/Cat-vs-Dog-CNN.git
+git clone https://github.com/vaibhav208/Cat-vs-Dog-CNN.git
 cd Cat-vs-Dog-CNN
 ```  
 
